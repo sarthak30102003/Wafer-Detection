@@ -1,0 +1,4 @@
+The dataset (~1.5 GB) is too large for GitHub. Download it from:
+
+📦 Kaggle Dataset: https://www.kaggle.com/datasets/sarthakaggarwal3010/wafer-detection
+🤗 Hugging Face Dataset: https://huggingface.co/datasets/Sarthak123Agg/wafer_detection
